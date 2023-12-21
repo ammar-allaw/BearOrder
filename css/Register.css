@@ -1,0 +1,116 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+/*    background-color: black;
+*/    color: white;
+    background-image: url("https://th.bing.com/th/id/R.a0720f3d5b937cd9511cca7bcad66b3c?rik=1fK0QpW50eH3Wg&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.header_section {
+    /*  background-color:orange;*/
+    /*   padding: 3%;*/
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 14%;
+    margin-top:30px;
+    /*justify-content: space-around;*/
+    /*margin-bottom: 5%;*/
+}
+
+.Button1 {
+    background-color: #FF6000;
+    color: white;
+    /*margin-top: 10%;*/
+    margin-left: 6%;
+    /* margin-bottom: 15%;*/
+    width: 85%;
+    font-family: Cursive;
+}
+
+.div_1 {
+
+    margin-top: -2%;
+    margin-left: 6%;
+    margin-bottom: 7%;
+    width: 85%;
+    font-family: Cursive;
+}
+
+.TextBox {
+    /*width:50%;*/
+    height:30px;
+}
+
+.first_div {
+   /*height:50%;*/
+    margin-left: 15%;
+    /*padding: 0%;*/
+    height:
+    backdrop-filter: blur(5px);
+    align-items: center;
+    text-align: center;
+    border-style: solid;
+    border-color: inherit;
+    border-width: 3px;
+    border-radius: 10%;
+    border-color: #FF6000;
+    width: 35%;
+}
+
+.icon1 {
+    width: 30%;
+    height: 20%;
+    margin-left: 50%;
+}
+
+.secod_div {
+    color: #FFE6C7;
+    backdrop-filter: blur(5px);
+    border: 5px solid #FF6000;
+    border-radius: 100%;
+    margin-bottom: 0px;
+    margin-left: 10%;
+    margin-right: 0px;
+    width: 20%;
+    height: 300px;
+}
+
+.img1 {
+    width: 50%;
+    margin-top:8px;
+}
+
+.h2 {
+    font-family: Cursive;
+    margin-top: 9%;
+}
+
+.font {
+    font-family: Cursive;
+}
+.text {
+    text-align:start;
+    padding:0%;
+    font-family: Cursive;
+    font-size:25px;
+}
+.te {
+    padding: 0%;
+    color: #FF6000;
+    font-family: Cursive;
+    font-size: 40px;
+}
+.re {
+    border-bottom: solid;
+    border-width: 3px;
+    border-color: #FF6000;
+    border-radius: 20%;
+}
